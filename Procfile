@@ -1,1 +1,1 @@
-web: node src/config/db.js
+web: node dist/main.js
