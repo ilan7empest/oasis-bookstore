@@ -1,0 +1,10 @@
+.imagePicker {
+  cursor: pointer;
+  z-index: 102;
+}
+.tag {
+  position: absolute !important;
+  top: auto;
+  right: 0;
+  height: 100%;
+}

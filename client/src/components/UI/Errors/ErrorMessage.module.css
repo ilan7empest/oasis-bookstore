@@ -1,0 +1,22 @@
+.message {
+  opacity: 0;
+  display: none;
+  transition: all 0.5s ease-out !important;
+}
+.messageFadeIn {
+  display: block;
+  opacity: 0;
+}
+.messageFadeInDone {
+  display: block;
+  opacity: 1;
+  transition: all 0.5s ease-out !important;
+}
+.messageFadeOut {
+  display: block;
+  opacity: 0;
+  transition: all 0.3s ease-out !important;
+}
+.messageFadeDone {
+  display: none;
+}
